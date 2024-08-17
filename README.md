@@ -1,3 +1,4 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/disney1026/)
 # Baekjoon 단계별로 풀어보기 기록
 
 이 저장소는 [백준](https://www.acmicpc.net/)의 단계별로 풀어보기 문제를 해결하고 기록하기 위한 공간입니다. 각 스텝(step)은 해당 단계의 문제들을 포함하며, 각 문제는 다음과 같이 표현됩니다:
